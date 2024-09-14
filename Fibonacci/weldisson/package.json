@@ -10,7 +10,7 @@
   "author": "Weldisson Araujo",
   "license": "ISC",
   "dependencies": {
-    "sinon": "^9.2.4",
+    "sinon": "^19.0.0",
     "yargs": "^17.6.0"
   }
 }
