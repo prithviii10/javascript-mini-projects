@@ -8,7 +8,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@babel/preset-env": "^7.22.15",
+    "@babel/preset-env": "^7.27.1",
     "@babel/preset-react": "^7.22.15",
     "@emailjs/browser": "^3.10.0",
     "@react-three/drei": "^9.57.0",
