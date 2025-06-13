@@ -17,7 +17,7 @@
     "framer-motion": "^10.0.2",
     "gltfpack": "^0.18.0",
     "maath": "^0.5.2",
-    "minimatch": "^9.0.3",
+    "minimatch": "^10.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-intersection-observer": "^9.5.2",
